@@ -18,26 +18,10 @@ window.onload = function () {
     var btna = document.getElementsByClassName("btnss");
     /*console.log(btna);*/
     for (var i=0; i<btna.length; i++){
-        if (t["0"].innerText != "王老师[咨询]"){
-            if (t["0"].innerText == "杜老师[咨询]"){
-                btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=dcd480c06147b9bed4aacc80507967d2&kf=kf01@71a.com&zdkf_type=1&kflist=off&timeStamp=1499135050206&ucust_id=";
-            }else if (t["0"].innerText == "郭老师[咨询]"){
-                btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=dcd480c06147b9bed4aacc80507967d2&kf=kf02@71a.com&zdkf_type=1&kflist=off&timeStamp=1499135061606&ucust_id=";
-            }else if (t["0"].innerText == "任老师[咨询]"){
-                btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=dcd480c06147b9bed4aacc80507967d2&kf=rendanzhangyu@163.com&zdkf_type=1&kflist=off&timeStamp=1499135079958&ucust_id=";
-            }else if (t["0"].innerText == "叶老师[咨询]"){
-                btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=dcd480c06147b9bed4aacc80507967d2&kf=15921474690@163.com&zdkf_type=1&kflist=off&timeStamp=1499135021830&ucust_id=";
-            }else if (t["0"].innerText == "黄老师[咨询]"){
-                btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=bec2bf61c368b1881ae9da1f172a5b1c&kf=zf@71a.com&zdkf_type=1&kflist=off&timeStamp=1500364488710&ucust_id=";
-            }else if (t["0"].innerText == "程老师[咨询]"){
-                btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=bec2bf61c368b1881ae9da1f172a5b1c&kf=710739349@qq.com&zdkf_type=1&kflist=off&timeStamp=1500364543500&ucust_id=";
-            }else if (t["0"].innerText == "左老师[咨询]"){
-                btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=bec2bf61c368b1881ae9da1f172a5b1c&kf=zzm@71a.com&zdkf_type=1&kflist=off&timeStamp=1500364525820&ucust_id=";
-            }else if (t["0"].innerText == "赵老师[咨询]"){
-                btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=bec2bf61c368b1881ae9da1f172a5b1c&kf=cxyi@71a.com&zdkf_type=1&kflist=off&timeStamp=1500364560044&ucust_id=";
-            }
+        if (t["0"].innerText != "小明[咨询]"){
+                btna[i].href = "https://tb.53kf.com/code/client/10128903/1";
         }else {
-            btna[i].href = "http://www8.53kf.com/webCompany.php?arg=10128903&style=1&language=zh-cn&charset=utf-8&referer=http%3A%2F%2Fwww.71a.com%2F&keyword=&tfrom=1&tpl=crystal_blue&uid=dcd480c06147b9bed4aacc80507967d2&kf=kf03@71a.com&zdkf_type=1&kflist=off&timeStamp=1499135038158&ucust_id=";
+            btna[i].href = "https://tb.53kf.com/code/client/10128903/1";
         }
     }
 };

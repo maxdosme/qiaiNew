@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf09a93a-d04c-49ce-aafd-2275c618725f" name="Default" comment="" />
+    <list default="true" id="cf09a93a-d04c-49ce-aafd-2275c618725f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/cwdl.html" afterPath="$PROJECT_DIR$/cwdl.html" />
+      <change beforePath="$PROJECT_DIR$/images/rts01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/rts02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/rts03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/rts04.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change beforePath="$PROJECT_DIR$/service/brand.html" afterPath="$PROJECT_DIR$/service/brand.html" />
+      <change beforePath="$PROJECT_DIR$/service/check.html" afterPath="$PROJECT_DIR$/service/check.html" />
+      <change beforePath="$PROJECT_DIR$/service/law.html" afterPath="$PROJECT_DIR$/service/law.html" />
+      <change beforePath="$PROJECT_DIR$/special/special01.html" afterPath="$PROJECT_DIR$/special/special01.html" />
+      <change beforePath="$PROJECT_DIR$/special/special02.html" afterPath="$PROJECT_DIR$/special/special02.html" />
+      <change beforePath="$PROJECT_DIR$/zc.html" afterPath="$PROJECT_DIR$/zc.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,31 +33,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="132" column="79" lean-forward="true" selection-start-line="132" selection-start-column="79" selection-end-line="132" selection-end-column="79" />
-              <folding>
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="450">
+              <caret line="86" column="8" lean-forward="true" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
+      <file leaf-file-name="cwdl.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cwdl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="326">
+              <caret line="273" column="50" lean-forward="false" selection-start-line="273" selection-start-column="50" selection-end-line="273" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zc.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -59,15 +75,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;div class=&quot;col-xs-3 rig_l&quot;&gt;&lt;a href=&quot;#&quot;&gt;财务代理&lt;/a&gt;&lt;/div&gt;</find>
-      <find>&lt;div class=&quot;col-xs-3&quot;&gt;&lt;a href=&quot;#&quot;&gt;联系我们&lt;/a&gt;&lt;/div&gt;</find>
-      <find>核心优势</find>
-      <find>&lt;!--手机端底部--&gt;</find>
-      <find>#navBer .logo img</find>
-      <find>盒子</find>
-      <find>btnss</find>
-      <find>&lt;a class=&quot;ban_btn text-center&quot; href=&quot;#&quot; &gt;咨询客服&lt;/a&gt;</find>
-      <find>&lt;a class=&quot;btnss ban_btn text-center&quot; href=&quot;#&quot;&gt;咨询客服&lt;/a&gt;</find>
       <find>&lt;a class=&quot;btnss ban_btn text-center&quot; href=&quot;#&quot; &gt;咨询客服&lt;/a&gt;</find>
       <find>&lt;a href=&quot;#&quot;&gt;在线咨询&lt;/a&gt;</find>
       <find>&lt;a href=&quot;#&quot; class=&quot;btnss&quot;&gt;在线咨询&lt;/a&gt;</find>
@@ -81,7 +88,6 @@
       <find>&lt;meta name=&quot;keywords&quot; content=&quot;注册公司,上海注册公司,公司核名,公司名称查询,注册公司核名,注册公司查名|&quot;&gt;</find>
       <find>咨询</find>
       <find>财务代理</find>
-      <find>在线咨询</find>
       <find>&lt;!--&lt;a target=&quot;_blank&quot; href=&quot;http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502004574&quot; style=&quot;display:inline-block;text-decoration:none;height:20px;line-height:20px;&quot;&gt;&lt;img src=&quot;images/ga_icon.png&quot; style=&quot;float:left;margin-right: 3px;&quot;/&gt;沪公网安备31011502004574号&lt;/a&gt;&lt;/span&gt;--&gt;&amp;nbsp;&amp;nbsp;沪ICP备16005339号-2</find>
       <find>&lt;a target=&quot;_blank&quot; href=&quot;http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502004574&quot; style=&quot;display:inline-block;text-decoration:none;height:20px;line-height:20px;&quot;&gt;&lt;img src=&quot;images/ga_icon.png&quot; style=&quot;float:left;margin-right: 3px;&quot;/&gt;沪公网安备 31011502204574号&lt;/a&gt;&lt;/span&gt;&amp;nbsp;&amp;nbsp;沪ICP备16005339号-2</find>
       <find>&lt;a target=&quot;_blank&quot; href=&quot;http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502004574&quot; style=&quot;display:inline-block;text-decoration:none;height:20px;line-height:20px;&quot;&gt;&lt;img src=&quot;images/ga_icon.png&quot; style=&quot;float:left;margin-right: 3px;&quot;/&gt;沪公网安备31011502204574号&lt;/a&gt;&amp;nbsp;&amp;nbsp;沪ICP备16005339号-2</find>
@@ -89,6 +95,16 @@
       <find>zc_cont3</find>
       <find>我们的优势</find>
       <find>移动端banner</find>
+      <find>s_box</find>
+      <find>s_cont4</find>
+      <find>盒子1</find>
+      <find>body</find>
+      <find>服务</find>
+      <find>#pageService .s_box .s_cont4 a</find>
+      <find>boxI</find>
+      <find>在线咨询</find>
+      <find>http://www8.53kf.com/webCompany.php?arg=10128903&amp;style=1&amp;language=zh-cn&amp;charset=utf-8&amp;referer=http%3A%2F%2Flocalhost%3A63342%2Fqiai2%2Fzc.html%3F_ijt%3Dhm21lrs7iubd7qf0lq8qpqr9fi%23&amp;keyword=&amp;tfrom=1&amp;tpl=crystal_blue&amp;uid=b302c45cefde9dfac4aaa239872776f7&amp;kf=kf03@71a.com&amp;zdkf_type=1&amp;kflist=off&amp;timeStamp=1495008266395&amp;ucust_id=</find>
+      <find>https://tb.53kf.com/code/client/10128903/1</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;div class=&quot;col-xs-3 rig_l&quot;&gt;&lt;a href=&quot;zc.html&quot;&gt;公司注册&lt;/a&gt;&lt;/div&gt;</replace>
@@ -104,6 +120,8 @@
       <replace>&lt;a target=&quot;_blank&quot; href=&quot;http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502004574&quot; style=&quot;display:inline-block;text-decoration:none;height:20px;line-height:20px;&quot;&gt;&lt;img src=&quot;images/ga_icon.png&quot; style=&quot;float:left;margin-right: 3px;&quot;/&gt;沪公网安备 31011502204574号&lt;/a&gt;&lt;/span&gt;&amp;nbsp;&amp;nbsp;沪ICP备16005339号-2</replace>
       <replace>&lt;a target=&quot;_blank&quot; href=&quot;http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502004574&quot; style=&quot;display:inline-block;text-decoration:none;height:20px;line-height:20px;&quot;&gt;&lt;img src=&quot;images/ga_icon.png&quot; style=&quot;float:left;margin-right: 3px;&quot;/&gt;沪公网安备31011502204574号&lt;/a&gt;&amp;nbsp;&amp;nbsp;沪ICP备16005339号-2</replace>
       <replace>&lt;a target=&quot;_blank&quot; href=&quot;http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502204574&quot; style=&quot;display:inline-block;text-decoration:none;height:20px;line-height:20px;&quot;&gt;&lt;img src=&quot;images/ga_icon.png&quot; style=&quot;float:left;margin-right: 3px;&quot;/&gt;沪公网安备31011502204574号&lt;/a&gt;&amp;nbsp;&amp;nbsp;沪ICP备16005339号-2</replace>
+      <replace>https://tb.53kf.com/code/client/10128903/1</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -132,8 +150,8 @@
         <option value="$PROJECT_DIR$/cwdl.html" />
         <option value="$PROJECT_DIR$/cus.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -165,8 +183,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,12 +317,13 @@
       <workItem from="1499312978879" duration="91000" />
       <workItem from="1500370749787" duration="386000" />
       <workItem from="1508811713604" duration="6000" />
-      <workItem from="1519695529438" duration="6053000" />
+      <workItem from="1519695529438" duration="11331000" />
+      <workItem from="1519779467957" duration="3145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140227000" />
+    <option name="totallyTimeSpent" value="148650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -312,20 +331,20 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10572917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -720,13 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="237" column="75" lean-forward="false" selection-start-line="237" selection-start-column="66" selection-end-line="237" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cus.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1858">
@@ -734,33 +746,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cwdl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="296" column="14" lean-forward="false" selection-start-line="296" selection-start-column="14" selection-end-line="296" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/qiai/js/main.js" />
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        <state relative-caret-position="506">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="132" column="79" lean-forward="true" selection-start-line="132" selection-start-column="79" selection-end-line="132" selection-end-column="79" />
+        <state relative-caret-position="-56">
+          <caret line="432" column="33" lean-forward="true" selection-start-line="432" selection-start-column="33" selection-end-line="432" selection-end-column="33" />
           <folding>
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -772,6 +770,30 @@
             <element signature="n#style#0;n#div#0;n#div#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="86" column="8" lean-forward="true" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cwdl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="273" column="50" lean-forward="false" selection-start-line="273" selection-start-column="50" selection-end-line="273" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
