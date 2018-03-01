@@ -132,15 +132,17 @@ a ,p,span,h1,div,p,li{font-family:arial,"微软雅黑 Regular";}
 /*财务代理页*/
 #cwdl_cont1 {overflow: hidden;position: relative;margin-bottom: 80px;}
 #cwdl_cont2 {overflow: hidden;position: relative;}
-#cwdl_cont2 {overflow: hidden;position: relative;}
-#cwdl_cont2 .cwdl_Box1{overflow: hidden;position: relative;}
-#cwdl_cont2 .cwdl_boxAll{overflow: hidden;position: relative;border: 1px solid #a8a8a8;border-radius: 10px;margin-top: 50px;}
-#cwdl_cont2 .cwdl_boxAll .cwdl_icon{padding: 30px 0;}
-#cwdl_cont2 .cwdl_boxAll p{font-size: 14px;color: #666666;}
-#cwdl_cont2 .cwdl_boxAll h3{font-size: 18px;color: #444444;border-top:2px solid #e1dddd;line-height: 43px;}
-#cwdl_cont2 .cwdl_boxAll p span{font-size: 60px;color: #ec6538;font-style: italic;}
-#cwdl_cont2 .cwdl_boxAll a{width: 115px;height: 45px;display: block;margin: 30px auto;border: 1px solid #a8a8a8;color: #666666;line-height: 45px;border-radius: 10px;font-size: 16px;}
-#cwdl_cont2 .cwdl_boxAll a:hover{background-color: #ec6538;color: #fff;border: 0;}
+#cwdl_cont2 .s_box{overflow: hidden;position: relative;background-color:#fbfbfb;border: 1px solid #ebebeb;}
+#cwdl_cont2 .s_box .s_cont2{color: #000000;padding: 0;}
+#cwdl_cont2 .s_box .s_cont2 h2{font-size: 16px;margin: 21px 0 11px 0;}
+#cwdl_cont2 .s_box .s_cont2Icon {display: block;margin: 21px 0 11px 0;border: 1px solid #a0a0a0;border-radius: 7px;padding: 0 5px;color: #a0a0a0;}
+#cwdl_cont2 .s_box .s_cont3 p{color: #777777;font-size: 12px;}
+#cwdl_cont2 .s_box .line {border-bottom: 1px dashed #cfcfcf;margin: 5px 0;}
+#cwdl_cont2 .s_box .s_cont4{padding: 20px 0;}
+#cwdl_cont2 .s_box .s_cont4 p{font-size: 14px;}
+#cwdl_cont2 .s_box .s_cont4 a{font-size: 16px;color: #f36638;border: 1px solid #f36638;padding: 6px 15px;border-radius: 7px;transition: background-color 0.8s, color 0.8s;-webkit-transition: background-color 0.8s, color 0.8s;}
+#cwdl_cont2 .s_box .s_cont4 a:hover{background-color: #f36638;color: #FFFFFF;}
+
 #cwdl_cont3 {overflow: hidden;position: relative;}
 #cwdl_cont3 .c_cont3 {overflow: hidden;position: relative;font-size: 16px;}
 #cwdl_cont3 .c_cont3 li{line-height: 53px;border-bottom: 1px dashed #e5e5e5;}
