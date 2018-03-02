@@ -60,8 +60,7 @@ a ,p,span,h1,div,p,li{font-family:arial,"微软雅黑 Regular";}
 .navbar .nav > li > a:hover {color: #f36638;}
 
 /*banner*/
-#pageBanner {position: relative;background: url("../images/banner.png")50% 50% no-repeat;height: 640px;}
-#pageBanner .ban_btn{width: 150px;height: 45px;display: block;position: absolute;bottom: 15%;right: 48%;border: 1px solid #1a4278;line-height: 43px;color: #1a4278;font-size: 20px;}
+#pageBanner {position: relative;background: url("../images/in-banner.jpg")repeat-x center top fixed;height: 350px;}
 
 /*复用title*/
 .g_title {margin-bottom: 40px;margin-top:80px;overflow: hidden;}
@@ -270,13 +269,7 @@ a ,p,span,h1,div,p,li{font-family:arial,"微软雅黑 Regular";}
     #m_navber .m_fen li a{ color: #FFFFFF;display: block;padding: 10px 43px !important;}
 
     /*banner*/
-    .jumbotron {
-        margin-top: 51px;
-        height: 23vh;
-        background: url(../images/m_banner.png);
-        background-size: 100%;
-        display: block;
-    }
+
 
     /*移动端底部*/
     #m_footer { color: #FFFFFF; overflow: hidden; position: relative; background-color: #293646;  }
