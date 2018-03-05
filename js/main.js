@@ -27,7 +27,7 @@ window.onload = function () {
 };
 
 // 滚动导航
-$(window).scroll(function(){
+/*$(window).scroll(function(){
     var scrollTop = $(window).scrollTop();
     if(scrollTop > 66)
         $('#navBer').css({position:'fixed',top:'0px'}).stop().animate({'opacity':'0.8'},400);
@@ -43,7 +43,7 @@ $('#navBer').hover(function(){
     if(scrollTop > 66){
         $('#navBer').stop().animate({'opacity':'0.8'},400);
     }
-});
+});*/
 
 $(document).ready(function () {
     $("#navBer .bar_a").click(function () {

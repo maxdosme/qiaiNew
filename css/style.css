@@ -60,7 +60,7 @@ a ,p,span,h1,div,p,li{font-family:arial,"微软雅黑 Regular";}
 .navbar .nav > li > a:hover {color: #f36638;}
 
 /*banner*/
-#pageBanner {position: relative;background: url("../images/in-banner.jpg")repeat-x center top fixed;height: 350px;}
+#pageBanner {position: relative;background: url("../images/in-banner.jpg") 50% 0 repeat-x;height: 450px;}
 
 /*复用title*/
 .g_title {margin-bottom: 40px;margin-top:80px;overflow: hidden;}
@@ -209,6 +209,13 @@ a ,p,span,h1,div,p,li{font-family:arial,"微软雅黑 Regular";}
 #special03 .sp3_cont2 h2{color: #444444;line-height: 65px;font-size: 18px;font-weight: bold;}
 #special03 .sp3_cont2 p{color: #666;line-height: 27px;font-size: 14px;}
 
+/*公司转让*/
+#tra {overflow: hidden; position: relative;}
+#tra .tra2_cont {overflow: hidden; position: relative;padding: 80px 0;}
+#tra .tra2_cont li{font-size: 18px;color: #444;line-height: 45px;}
+#tra .tra3_cont {overflow: hidden;position: relative;margin: 30px 0;}
+#tra .tra3_cont a{height: 45px;width: 150px;display: block;border: 1px solid #f36638;margin: 50px auto;line-height: 45px;font-size: 14px;color: #f36638;border-radius: 10px;}
+#tra .tra3_cont a:hover{background-color: #f36638;color: #FFFFFF;}
 
 
 /*移动端样式*/
