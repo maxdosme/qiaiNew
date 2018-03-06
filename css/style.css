@@ -231,6 +231,13 @@ a ,p,span,h1,div,p,li{font-family:arial,"微软雅黑 Regular";}
 .g-tra7 .table .tra7-boxAll {padding: 50px 0;}
 .g-tra7 .table tr th {color: #444444;font-size: 24px;padding-left: 30px;}
 .g-tra7 .table tr td {color: #666666;font-size: 18px;line-height: 50px;padding-left: 30px;}
+.g-tra8 {overflow: hidden;position: relative;margin: 50px 0;}
+.g-tra8 .tra8-cont {margin: 30px 0;}
+.g-tra8 .tra8-cont img{margin: 30px 0 50px;}
+.g-tra8 .tra8-cont p{font-size: 30px;color: #444444;}
+.g-tra8 .tra8-cont span{color: #ff6253;}
+.g-tra8 .tra8-cont a{display: block;width: 176px;height:60px;line-height: 60px;font-size: 30px;color: #ff6253;border-radius: 10px;border: 1px solid #ff6253;margin: 30px auto;transition: background-color 0.8s, color 0.8s;-webkit-transition: background-color 0.8s, color 0.8s;}
+.g-tra8 .tra8-cont a:hover{background-color: #ff6253;color: #FFFFFF;}
 
 /*移动端样式*/
 @media screen and (max-width: 700px) { /*当屏幕尺寸小于700px时，应用下面的CSS样式*/
