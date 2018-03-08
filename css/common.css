@@ -4,6 +4,7 @@
 
 /*common*/
 *:focus {outline: none;}
+.clpd {padding: 0!important;}
 
 /* display */
 .dn { display: none; }
